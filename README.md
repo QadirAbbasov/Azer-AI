@@ -52,6 +52,7 @@ Azər AI, müasir bir kompüter asistandır bizə fikirlərinizi deyə bilərsin
 ## Əlaqə
 
 - [GitHub səhifəsi](https://github.com/QadirAbbasov)
+- [Discord səhifəsi](https://discord.gg/R24rKgYp)
 
 ## Layihə Statusu
 
