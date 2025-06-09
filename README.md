@@ -1,6 +1,6 @@
 # Azer AI
 
-![Logo](./AzerAI.png)
+![Logo](./azer_ai.png)
 
 Azer AI, müasir bir kompüter asistandır. İstifadəçilərin gündəlik işlərini asanlaşdırmaq üçün süni intellekt texnologiyası ilə inkişaf etdirilmişdir.
 
