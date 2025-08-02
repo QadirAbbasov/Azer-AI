@@ -1,4 +1,4 @@
-# Azer AI V1.2
+# Azer AI V5.8
 
 ![Logo](./azer_ai.png)
 
