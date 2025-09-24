@@ -83,7 +83,7 @@ Azer ai/
 
 ### 2) Depoyu İndir
 ```bash
-git clone https://github.com/<kullanici>/azer-ai.git
+git clone https://github.com/QadirAbbasov/azer-ai.git
 cd azer-ai
 ```
 
@@ -296,3 +296,4 @@ Kurulum için ek bir yapılandırma gerekmez; yalnızca `db_manager.py` içinde 
 
 ## Lisans
 Bu proje açık kaynak olarak yayımlanmıştır. Kullanım koşulları için repodaki lisans dosyasına bakınız.
+
