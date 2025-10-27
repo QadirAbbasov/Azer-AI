@@ -1,5 +1,7 @@
 # Azer AI (Desktop Voice Assistant)
 
+![Logo](./azer_ai.png)
+
 Azer AI, Windows ve Linux üzerinde çalışan, Türkçe ve Azərbaycan dili destekli modern bir masaüstü sesli asistanıdır. Açık kaynak olarak yayımlanmıştır; eklenti sistemi ile kolayca genişletilebilir. Pro ve Free lisans katmanları, yönetim paneli (admin panel), kullanıcı ayarları (user settings), sürekli dinleme ve tek seferlik dinleme modları, sistem komutları ve özel komutlar desteği sunar.
 
 ## Ekran Görüntüleri
@@ -296,4 +298,5 @@ Kurulum için ek bir yapılandırma gerekmez; yalnızca `db_manager.py` içinde 
 
 ## Lisans
 Bu proje açık kaynak olarak yayımlanmıştır. Kullanım koşulları için repodaki lisans dosyasına bakınız.
+
 
