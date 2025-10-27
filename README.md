@@ -1,46 +1,72 @@
 # Azer AI (Desktop Voice Assistant)
 
-<p align="left">
-  <img src="./images/azer_ai.png" alt="Logo"  align="left" />
-  Azer AI, Windows ve Linux üzerinde çalışan, Türkçe ve Azərbaycan dili destekli modern bir masaüstü sesli asistanıdır. Açık kaynak olarak yayımlanmıştır; eklenti sistemi ile kolayca genişletilebilir. Pro ve Free lisans katmanları, yönetim paneli (admin panel), kullanıcı ayarları (user settings), sürekli dinleme ve tek seferlik dinleme modları, sistem komutları ve özel komutlar desteği sunar.
+<p>
+  <img src="./images/azer_ai.png" alt="Logo" align="left" width="140" style="margin-right:15px; border-radius:8px;">
+Azer AI, Windows ve Linux üzerinde çalışan, Türkçe ve Azərbaycan dili destekli modern bir masaüstü sesli asistanıdır. Açık kaynak olarak yayımlanmıştır; eklenti sistemi ile kolayca genişletilebilir. Pro ve Free lisans katmanları, yönetim paneli (admin panel), kullanıcı ayarları (user settings), sürekli dinleme ve tek seferlik dinleme modları, sistem komutları ve özel komutlar desteği sunar.
 </p>
 
+<br clear="left"/>
 
-## Ekran Görüntüleri
+---
 
-<p align="center">
-  <img alt="Ana Ekran" src="images/Azer%20AI%20main.png" width="800" />
-</p>
+# 🖼️ Ekran Görüntüleri
 
-<p align="center">
-  <img alt="Yazı Alanı" src="images/Azer%20AI%20write.png" width="800" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Azer%20AI%20main.png" alt="Ana Ekran" width="380" style="border-radius:12px;">
+      <br>🏠 <b>Ana Ekran</b>
+    </td>
+    <td align="center">
+      <img src="images/Azer%20AI%20write.png" alt="Yazı Alanı" width="380" style="border-radius:12px;">
+      <br>✍️ <b>Yazı Alanı</b>
+    </td>
+  </tr>
 
-<p align="center">
-  <img alt="Güncelleme Kontrolü" src="images/Azer%20AI%20update.png" width="450" />
-  <img alt="Giriş" src="images/Azer%20AI%20login.png" width="450" />
-</p>
+  <tr>
+    <td align="center">
+      <img src="images/Azer%20AI%20update.png" alt="Güncelleme Kontrolü" width="380" style="border-radius:12px;">
+      <br>⚙️ <b>Güncelleme Kontrolü</b>
+    </td>
+    <td align="center">
+      <img src="images/Azer%20AI%20login.png" alt="Giriş" width="380" style="border-radius:12px;">
+      <br>🔐 <b>Giriş</b>
+    </td>
+  </tr>
 
-<p align="center">
-  <img alt="Kayıt" src="images/Azer%20AI%20sign%20up.png" width="450" />
-  <img alt="Yükleniyor" src="images/Azer%20AI%20loading.png" width="450" />
-</p>
+  <tr>
+    <td align="center">
+      <img src="images/Azer%20AI%20sign%20up.png" alt="Kayıt" width="380" style="border-radius:12px;">
+      <br>🧾 <b>Kayıt</b>
+    </td>
+    <td align="center">
+      <img src="images/Azer%20AI%20loading.png" alt="Yükleniyor" width="380" style="border-radius:12px;">
+      <br>⏳ <b>Yükleniyor</b>
+    </td>
+  </tr>
 
-<p align="center">
-  <img alt="Kullanıcı Ayarları" src="images/Azer%20AI%20settings.png" width="800" />
-</p>
+  <tr>
+    <td align="center">
+      <img src="images/Azer%20AI%20settings.png" alt="Kullanıcı Ayarları" width="380" style="border-radius:12px;">
+      <br>👤 <b>Kullanıcı Ayarları</b>
+    </td>
+    <td align="center">
+      <img src="images/Azer%20AI%20commands%20list.png" alt="Komut Listesi" width="380" style="border-radius:12px;">
+      <br>💬 <b>Komut Listesi</b>
+    </td>
+  </tr>
 
-<p align="center">
-  <img alt="Komut Listesi" src="images/Azer%20AI%20commands%20list.png" width="700" />
-</p>
-
-<p align="center">
-  <img alt="Admin Panel" src="images/Azer%20AI%20admin%20panel.png" width="800" />
-</p>
-
-<p align="center">
-  <img alt="Çıkış Diyaloğu" src="images/Azer%20AI%20exit.png" width="500" />
-</p>
+  <tr>
+    <td align="center">
+      <img src="images/Azer%20AI%20admin%20panel.png" alt="Admin Panel" width="380" style="border-radius:12px;">
+      <br>🛠️ <b>Admin Panel</b>
+    </td>
+    <td align="center">
+      <img src="images/Azer%20AI%20exit.png" alt="Çıkış Diyaloğu" width="380" style="border-radius:12px;">
+      <br>🚪 <b>Çıkış Diyaloğu</b>
+    </td>
+  </tr>
+</table>
 
 ## Özellikler
 
@@ -300,6 +326,7 @@ Kurulum için ek bir yapılandırma gerekmez; yalnızca `db_manager.py` içinde 
 
 ## Lisans
 Bu proje açık kaynak olarak yayımlanmıştır. Kullanım koşulları için repodaki lisans dosyasına bakınız.
+
 
 
 
