@@ -1,32 +1,32 @@
-# Azer AI (Desktop Voice Assistant)
+# Azer AI (Masaüstü Səsli Köməkçi)
 
 <p>
   <img src="./images/azer_ai.png" alt="Logo" align="left" width="140" style="margin-right:15px; border-radius:8px;">
-Azer AI, Windows ve Linux üzerinde çalışan, Türkçe ve Azərbaycan dili destekli modern bir masaüstü sesli asistanıdır. Açık kaynak olarak yayımlanmıştır; eklenti sistemi ile kolayca genişletilebilir. Pro ve Free lisans katmanları, yönetim paneli (admin panel), kullanıcı ayarları (user settings), sürekli dinleme ve tek seferlik dinleme modları, sistem komutları ve özel komutlar desteği sunar.
+Azer AI — Windows və Linux üzərində işləyən, Türk və Azərbaycan dillərini dəstəkləyən müasir bir masaüstü səsli köməkçidir. Açıq mənbə (open-source) layihədir; plagin sistemi vasitəsilə asanlıqla genişləndirilə bilər. Pro və Pulsuz (Free) lisenziya qatları, idarə paneli (admin panel), istifadəçi parametrləri (user settings), davamlı və tək dinləmə modları, sistem əmrləri və xüsusi əmrlər dəstəyi təqdim edir.
 </p>
 
 <br clear="left"/>
 
 ---
 
-# 🖼️ Ekran Görüntüleri
+# 🖼️ Ekran Görüntüləri
 
 <table>
   <tr>
     <td align="center">
-      <img src="images/Azer%20AI%20main.png" alt="Ana Ekran" width="380" style="border-radius:12px;">
-      <br>🏠 <b>Ana Ekran</b>
+      <img src="images/Azer%20AI%20main.png" alt="Əsas Ekran" width="380" style="border-radius:12px;">
+      <br>🏠 <b>Əsas Ekran</b>
     </td>
     <td align="center">
-      <img src="images/Azer%20AI%20write.png" alt="Yazı Alanı" width="380" style="border-radius:12px;">
-      <br>✍️ <b>Yazı Alanı</b>
+      <img src="images/Azer%20AI%20write.png" alt="Yazı Sahəsi" width="380" style="border-radius:12px;">
+      <br>✍️ <b>Yazı Sahəsi</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="images/Azer%20AI%20update.png" alt="Güncelleme Kontrolü" width="380" style="border-radius:12px;">
-      <br>⚙️ <b>Güncelleme Kontrolü</b>
+      <img src="images/Azer%20AI%20update.png" alt="Yeniləmə Yoxlaması" width="380" style="border-radius:12px;">
+      <br>⚙️ <b>Yeniləmə Yoxlaması</b>
     </td>
     <td align="center">
       <img src="images/Azer%20AI%20login.png" alt="Giriş" width="380" style="border-radius:12px;">
@@ -36,23 +36,23 @@ Azer AI, Windows ve Linux üzerinde çalışan, Türkçe ve Azərbaycan dili des
 
   <tr>
     <td align="center">
-      <img src="images/Azer%20AI%20sign%20up.png" alt="Kayıt" width="380" style="border-radius:12px;">
-      <br>🧾 <b>Kayıt</b>
+      <img src="images/Azer%20AI%20sign%20up.png" alt="Qeydiyyat" width="380" style="border-radius:12px;">
+      <br>🧾 <b>Qeydiyyat</b>
     </td>
     <td align="center">
-      <img src="images/Azer%20AI%20loading.png" alt="Yükleniyor" width="380" style="border-radius:12px;">
-      <br>⏳ <b>Yükleniyor</b>
+      <img src="images/Azer%20AI%20loading.png" alt="Yüklənir" width="380" style="border-radius:12px;">
+      <br>⏳ <b>Yüklənir</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="images/Azer%20AI%20settings.png" alt="Kullanıcı Ayarları" width="380" style="border-radius:12px;">
-      <br>👤 <b>Kullanıcı Ayarları</b>
+      <img src="images/Azer%20AI%20settings.png" alt="İstifadəçi Parametrləri" width="380" style="border-radius:12px;">
+      <br>👤 <b>İstifadəçi Parametrləri</b>
     </td>
     <td align="center">
-      <img src="images/Azer%20AI%20commands%20list.png" alt="Komut Listesi" width="380" style="border-radius:12px;">
-      <br>💬 <b>Komut Listesi</b>
+      <img src="images/Azer%20AI%20commands%20list.png" alt="Əmr Siyahısı" width="380" style="border-radius:12px;">
+      <br>💬 <b>Əmr Siyahısı</b>
     </td>
   </tr>
 
@@ -62,62 +62,66 @@ Azer AI, Windows ve Linux üzerinde çalışan, Türkçe ve Azərbaycan dili des
       <br>🛠️ <b>Admin Panel</b>
     </td>
     <td align="center">
-      <img src="images/Azer%20AI%20exit.png" alt="Çıkış Diyaloğu" width="380" style="border-radius:12px;">
-      <br>🚪 <b>Çıkış Diyaloğu</b>
+      <img src="images/Azer%20AI%20exit.png" alt="Çıxış Dialoqu" width="380" style="border-radius:12px;">
+      <br>🚪 <b>Çıxış Dialoqu</b>
     </td>
   </tr>
 </table>
 
-## Özellikler
+## Xüsusiyyətlər
 
-- Sesli komutlar (az-AZ ve tr-TR)
-- Sürekli dinleme ve tek dinleme modları
-- Sistem komutları: ses/parlaklık, ekran görüntüsü, saat/tarih, hava durumu, arama, YouTube, Wikipedia, sistem bilgisi, yazma vb.
-- Pro ve Free lisans katmanları
-  - Free: çekirdek özellikler
-  - Pro: özel komutlar, bazı ek yetenekler (uygulama içinde lisans doğrulama)
-- Özel komutlar (sadece Pro): GUI üzerinden tetikleyiciler ve aksiyonlar tanımlayın
-- Admin Panel: kullanıcı ve lisans yönetimi
-- Kullanıcı Ayarları: TTS motoru (Edge TTS / gTTS), dil, ses cinsi, wake word ayarları, özel komutlar ve eklenti yönetimi
-- Eklenti sistemi (yalnız .py): manifest.json üzerinden tetikleyici ve meta tanımı
-- Güncelleme denetimi, modern arayüz ve görsel-işitsel geri bildirimler
+* Səsli əmrlər (az-AZ və tr-TR)
+* Davamlı və tək dinləmə rejimləri
+* Sistem əmrləri: səs/parlaqlıq, ekran görüntüsü, saat/tarix, hava, axtarış, YouTube, Wikipedia, sistem məlumatı, yazı və s.
+* Pro və Free lisenziya səviyyələri
 
-## Ekranlar ve Modlar
+  * Free: əsas funksiyalar
+  * Pro: xüsusi əmrlər, əlavə imkanlar (tətbiqdaxili lisenziya yoxlaması)
+* Xüsusi əmrlər (yalnız Pro): GUI üzərindən trigger və əməliyyatlar təyin edin
+* Admin Panel: istifadəçi və lisenziya idarəetməsi
+* İstifadəçi Parametrləri: TTS mühərriki (Edge TTS / gTTS), dil, səs növü, wake word tənzimləməsi, xüsusi əmrlər və plagin idarəetməsi
+* Plagin sistemi (.py faylları): manifest.json ilə trigger və meta məlumatları
+* Yeniləmə yoxlaması, müasir interfeys, vizual və səsli bildirişlər
 
-- **Sürekli Dinleme**: Asistan arka planda sürekli dinler; wake word tespitinde aktive olur
-- **Tek Dinleme**: Wake word sonrası tek komutu dinleyip işler
-- **Cevap Dinleme**: Asistan sorularına sesli cevap beklediği durumlar (zamanaşımı ile)
+## Ekranlar və Rejimlər
 
-## Proje Yapısı (Kısaltılmış)
+* **Davamlı Dinləmə**: Asistent arxa planda daima dinləyir, wake word eşidildikdə aktivləşir
+* **Tək Dinləmə**: Wake word deyildikdən sonra yalnız bir əmr qəbul edir
+* **Cavab Dinləmə**: Asistent sual verdikdə müəyyən müddət cavab gözləyir
+
+## Layihə Quruluşu (Qısaldılmış)
 
 ```
 Azer ai/
-  command/                 # Sistem komutları
-  plugins/                 # Eklentiler ve yöneticisi
-  resim/, wav/             # Görseller ve ses efektleri
-  user_settings.py         # Kullanıcı ayarları (GUI)
-  admin_panel.py           # Admin paneli (GUI)
-  plugins/plugin_manager.py# Eklenti yöneticisi
-  main.py                  # Ana uygulama (tam)
-  mini-azer-ai.py          # Hafif sürüm (mini)
-  db_manager.py            # Veritabanı erişim katmanı (konfig)
-  requirements.txt         # Bağımlılıklar
+  command/                 # Sistem əmrləri
+  plugins/                 # Plaginlər və idarəetmə
+  resim/, wav/             # Şəkillər və səs effektləri
+  user_settings.py         # İstifadəçi parametrləri (GUI)
+  admin_panel.py           # Admin panel (GUI)
+  plugins/plugin_manager.py# Plagin idarəçisi
+  main.py                  # Tam tətbiq
+  mini-azer-ai.py          # Yüngül versiya (mini)
+  db_manager.py            # Məlumat bazası interfeysi
+  requirements.txt         # Asılılıqlar
 ```
 
-## Kurulum
+## Quraşdırma
 
-### 1) Sistem Gereksinimleri
-- Python 3.10+
-- Windows 10/11 veya modern bir Linux dağıtımı
-- Mikrofon erişimi
+### 1) Sistem Tələbləri
 
-### 2) Depoyu İndir
+* Python 3.10+
+* Windows 10/11 və ya müasir Linux distributivi
+* Mikrofon girişi
+
+### 2) Deponu endirin
+
 ```bash
 git clone https://github.com/QadirAbbasov/azer-ai.git
 cd azer-ai
 ```
 
-### 3) Sanal Ortam (önerilir)
+### 3) Virtual mühit (məsləhət görülür)
+
 ```bash
 python -m venv .venv
 # Windows
@@ -126,208 +130,80 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-### 4) Bağımlılıkların Kurulumu
+### 4) Asılılıqların quraşdırılması
+
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Notlar (platforma göre):
-- Linux medya kontrolü için `playerctl` (önerilir): `sudo apt install playerctl`
-- Linux yazma otomasyonu için `xdotool`: `sudo apt install xdotool`
-- Linux ses seviyesi için `pactl` (PipeWire/PulseAudio) ya da `amixer` (ALSA) hazır olmalı
-- Parlaklık için `screen_brightness_control`; gerekirse `brightnessctl` veya `xbacklight`
+**Qeydlər (platformaya görə):**
 
-### 5) Veritabanı Kurulumu (Lokal)
+* Linux üçün `playerctl` (media idarəetməsi): `sudo apt install playerctl`
+* Avtomatik yazı üçün `xdotool`: `sudo apt install xdotool`
+* Səs səviyyəsi üçün `pactl` (PipeWire/PulseAudio) və ya `amixer` (ALSA)
+* Parlaqlıq üçün `screen_brightness_control`, alternativ: `brightnessctl` və ya `xbacklight`
 
-`db_manager.py` konfig dosyasıdır; bağlantı ve tablo yapıları buradan yönetilir. Başlangıç şeması için kökteki `Azer AI.sql` dosyasını kullanabilirsiniz.
+### 5) Məlumat Bazası Qurulumu (Yerəl)
 
-MySQL kullanımı önerilir (güncelleme kontrolleri vb. için merkezi yapı):
+`db_manager.py` konfiqurasiya faylıdır; əlaqə və cədvəl strukturları burada idarə olunur. Başlanğıc sxemi üçün kökdəki `Azer AI.sql` faylını istifadə edin.
 
-1) MySQL kurun ve bir veritabanı oluşturun (ör. `azer_ai`).
-2) Gerekli tabloları `Azer AI.sql` içeriğiyle oluşturun.
-3) Python bağlayıcıyı kurun:
-```bash
-pip install mysql-connector-python
-```
-4) `db_manager.py` içinde bağlantı bilgilerinizi ayarlayın (örnek):
-```python
-MYSQL_CONFIG = {
-    'host': 'localhost',
-    'port': 3306,
-    'user': 'azer_user',
-    'password': 'azer_password',
-    'database': 'azer_ai',
-    'charset': 'utf8mb4'
-}
-```
-5) Tüm CRUD fonksiyonları bu bağlantıyı kullanacak şekilde yapılandırılmalıdır (dosya zaten merkezi bir arayüzdür).
+MySQL tövsiyə olunur (yeniləmə və çoxistifadəçi dəstəyi üçün):
 
-Not: İsterseniz SQLite ile de çalışabilirsiniz; ancak MySQL ile çok-kullanıcılı ve sunucu tabanlı senaryolarda daha stabil sonuçlar elde edilir.
+1. MySQL quraşdırın və `azer_ai` adlı baza yaradın.
+2. `Azer AI.sql` faylındakı cədvəlləri yaradın.
+3. Python bağlayıcını quraşdırın:
 
-### 6) Uygulamayı Çalıştırma
+   ```bash
+   pip install mysql-connector-python
+   ```
+4. `db_manager.py` daxilində bağlantı məlumatlarını yazın:
 
-Tam sürüm:
+   ```python
+   MYSQL_CONFIG = {
+       'host': 'localhost',
+       'port': 3306,
+       'user': 'azer_user',
+       'password': 'azer_password',
+       'database': 'azer_ai',
+       'charset': 'utf8mb4'
+   }
+   ```
+
+SQLite də istifadə oluna bilər, amma çoxistifadəçi və server əsaslı senarilərdə MySQL daha sabitdir.
+
+### 6) Proqramın İşə Salınması
+
+Tam versiya:
+
 ```bash
 python main.py
 ```
 
-Mini sürüm:
+Yüngül versiya:
+
 ```bash
 python mini-azer-ai.py
 ```
 
-## Yapılandırma (db_manager.py)
-- Veritabanı dosya yolu veya bağlantı bilgileri burada tutulur
-- Ses ayarları, kullanıcı bilgileri, özel komutlar ve lisans kayıtları için CRUD fonksiyonları içerir
-- Lokal geliştirme için ek bir .env gerekmez; istenirse eklenebilir
+## Lisenziya Sistemi
 
-### MySQL yapılandırması hızlı özet
-- Bağlantı: `mysql-connector-python`
-- Ayarlar: `MYSQL_CONFIG`
-- Şema: `Azer AI.sql` dosyası (user, licenses, voice_settings, custom_commands, versions vb.)
-- Üretimde yetkili, sınırlı izinli bir kullanıcı tanımlayın (yalnız gerekli haklar)
+* Free: əsas xüsusiyyətlər
+* Pro: xüsusi əmrlər və əlavə funksiyalar
+* Lisenziya vəziyyəti (`current_user.license_status`) məlumat bazasında saxlanılır
+* Yenilənmə prosesi `subscription_manager.py` vasitəsilə idarə olunur
 
-## Lisans Sistemi
-- Free: temel özellikler
-- Pro: özel komutlar vb. gelişmiş fonksiyonlar
-- Lisans durumu kullanıcı bazlıdır (`current_user.license_status`) ve veri tabanında saklanır
-- Uygulama içi yükseltme akışı `subscription_manager.py` ile yönetilir
+## Tez-tez Verilən Suallar
 
-## Sistem Komutları (Örnekler)
-Aşağıdaki komutlar Windows ve Linux’ta çalışacak şekilde uyarlanmıştır:
+* "Səs gəlmir": Edge TTS internet tələb edir; gTTS səs faylı yaradır.
+* "Əmrlər işləmir": Mikrofon icazəsini, dil seçimini və wake word-u yoxlayın.
+* "Linux-da səs/media/parlaqlıq işləmir": `playerctl`, `pactl/amixer`, `brightnessctl/xbacklight` quraşdırılmalıdır.
 
-- **Ses** (`command/volume_manager.py`)
-  - Windows: `pycaw` (yedek: `nircmd.exe` varsa)
-  - Linux: `pactl` veya `amixer`
-- **Parlaklık** (`command/brightness_manager.py`)
-  - `screen_brightness_control` ortak kütüphane
-  - Linux yedek: `brightnessctl` veya `xbacklight`
-- **Medya** (`command/music_manager.py`)
-  - Windows: sistem medya tuşları
-  - Linux: `playerctl`
-- **Yazma** (`command/typing_manager.py`)
-  - Varsayılan: `keyboard` kütüphanesi
-  - Linux yedek: `xdotool`
-- **Hava Durumu** (`command/weather_manager.py`)
-  - `wttr.in` API’si ile şehir bazlı sorgu
-- **YouTube** (`command/youtube_manager.py`)
-  - `youtube_search` ile arama, varsayılan tarayıcı ile açma
-- **Wikipedia** (`command/wikipedia_manager.py`)
-  - `wikipedia` paketi ile özet okuma ve sayfa açma
-- **Arama** (`command/search_manager.py`)
-  - Yandex sonuçlarından ilkini açma
-- **Ekran Görüntüsü** (`command/screenshot.py`)
-  - `pyautogui` ile kaydetme ve gösterme
-- **Sistem Bilgisi** (`command/system.py`)
-  - CPU/RAM kullanım yüzdeleri ve durum değerlendirmesi
-- **Saat/Tarih** (`command/time_manager.py`, `command/date.py`)
-  - Dil uyumlu doğal dilde duyuru
-- **Not Alma** (`command/notes.py`)
-  - `notes/notes.txt` dosyasına ekleme
+## Layihəyə Dəstək
 
-## Wake Word ve Dinleme Modları
-- Wake word listesi kullanıcı ayarlarından (User Settings) düzenlenebilir; birden çok varyant desteklenir
-- Sürekli Dinleme: Wake word’ü yakalayınca asistan aktive olur
-- Tek Dinleme: Wake word sonrasında tek bir komut alır ve durur
-- Cevap Dinleme: Asistan bir soru sorar ve belirli süre kullanıcı cevabını bekler
+* Pull Request-lər qəbul olunur
+* Yeni əmrlər, plaginlər və səhv düzəlişləri məmnuniyyətlə
 
-## Kullanıcı Ayarları (user_settings.py)
-- TTS Motoru: Edge TTS veya gTTS seçimi
-- Dil: az-AZ veya tr-TR
-- Ses Cinsi: erkek/kadın
-- Wake Word: birden çok tetikleyici belirleyin
-- Özel Komutlar (Pro): tetikleyiciler ve aksiyonlar (Program Aç/Kapat, Web Aç, Script, Web Arama, Klavye Kısayolu)
-- Eklentiler: yükle, listele, kaldır
+## Lisenziya
 
-## Admin Paneli (admin_panel.py)
-- Kullanıcıları listeleme, lisans durumlarını güncelleme
-- Yönetici işlemleri
-
-## Eklenti Sistemi
-Yalnız Python (.py) eklentileri desteklenir. Her eklenti bir klasör olarak paketlenir ve .zip halinde yüklenir. Manifest ve ana .py dosyası zorunludur.
-
-### Manifest (manifest.json)
-```json
-{
-  "name": "MyPlugin",
-  "version": "1.0.0",
-  "main_file": "my_plugin.py",
-  "description": "Kısa açıklama",
-  "author": "Adınız",
-  "license_type": "free",
-  "logo": "logo.png",
-  "triggers": {
-    "az-AZ": ["tetikleyici 1", "tetikleyici 2"],
-    "tr-TR": ["tetikleyici 1", "tetikleyici 2"]
-  }
-}
-```
-
-### Python Sınıfı
-```python
-class MyPlugin:
-    @property
-    def name(self) -> str: return "MyPlugin"
-    @property
-    def version(self) -> str: return "1.0.0"
-    @property
-    def description(self) -> str: return "Kısa açıklama"
-    @property
-    def author(self) -> str: return "Adınız"
-    @property
-    def license_type(self) -> str: return "free"
-    @property
-    def logo(self) -> str: return "logo.png"  # opsiyonel ama önerilir
-
-    def execute(self, Azer_AI, command: str) -> None:
-        lang = Azer_AI.voice_settings['language']
-        if lang == 'az-AZ':
-            Azer_AI.speak("Salam! Plugin çalıştı.")
-        else:
-            Azer_AI.speak("Merhaba! Eklenti çalıştı.")
-```
-
-### Yükleme
-- Uygulama içinde Kullanıcı Ayarları > Plugin’ler > “Plugin Yükle” düğmesi ile .zip dosyanızı seçin
-- Yüklenen eklentiler `plugins/installed_plugins.json` içinde minimal bilgilerle listelenir (sadece `name`, `version`)
-- Eklenti tetikleyicileri yalnız `manifest.json` üzerinden alınır
-
-### Eşleşme
-- `plugins/plugin_manager.py` içinde tetikleyici eşleşmesi dil duyarlı yapılır (tam eşleşme, başında eşleşme ve basit sözcük benzerliği)
-
-### Örnek: Hız Testi Eklentisi
-- `plugins/SpeedTestPlugin/` klasöründe `manifest.json` ve `speed_test_plugin.py`
-- `speedtest` Python modülü yoksa CLI fallback: `speedtest -f json` veya `speedtest-cli --json`
-
-## Özel Komutlar (Pro)
-- Kullanıcı Ayarları > “Xüsusi Əmrlər” bölümünden tetikleyiciler ve aksiyonlar ekleyin
-- Aksiyonlar: Program Aç/Kapat, Web Aç, Script, Web Arama, Klavye Kısayolu
-- Tetikleyiciler dil bazlıdır (az-AZ/tr-TR)
-
-## Güncelleme Kontrolü (update_checker.py)
-
-Uygulama açılışında sürüm kontrolü yapılır. Bu işlem `update_checker.py` tarafından yürütülür ve veritabanındaki sürüm tablosundan (MySQL önerilir) en son sürüm bilgisi okunur.
-
-- `db_manager.py` aracılığıyla veritabanına bağlanır
-- `version.txt` veya yerel `version.py` değerini sunucudaki son sürüm ile karşılaştırır
-- Yeni sürüm varsa kullanıcıya bildirim gösterir ve güncelleme akışını başlatır (uygulama içinde yönlendirme)
-
-Kurulum için ek bir yapılandırma gerekmez; yalnızca `db_manager.py` içinde MySQL bağlantı bilgilerinin doğru olması yeterlidir.
-
-## Sık Sorulanlar
-- “Ses gelmiyor”: Edge TTS için internet bağlantısı gerekli; gTTS de dosya üretir ve çalar. Ses kartı/devreleri erişilebilir olmalı
-- “Komutlar çalışmıyor”: Mikrofon izni, doğru dil seçimi ve wake word doğrulaması yapın
-- “Linux’ta medya/ses/parlaklık çalışmıyor”: `playerctl`, `pactl/amixer`, `brightnessctl/xbacklight` kurulu olmalı
-
-## Katkı
-- Pull Request’ler kabul edilir
-- Yeni komutlar, eklentiler, hata düzeltmeleri memnuniyetle
-
-## Lisans
-Bu proje açık kaynak olarak yayımlanmıştır. Kullanım koşulları için repodaki lisans dosyasına bakınız.
-
-
-
-
-
+Bu layihə açıq mənbədir. İstifadə şərtləri üçün repodakı LICENSE faylına baxın.
